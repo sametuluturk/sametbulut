@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="624cf2e5-eeab-4948-a040-ecbaeb44c534" name="Default Changelist" comment="İKİNCİ ACIKLAMA">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +60,7 @@
       <workItem from="1603193275672" duration="346000" />
       <workItem from="1603193635065" duration="1929000" />
       <workItem from="1603197554818" duration="12000" />
-      <workItem from="1603197567836" duration="874000" />
+      <workItem from="1603197567836" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="İKİNCİ ACIKLAMA">
       <created>1603196179632</created>
@@ -52,11 +69,29 @@
       <option name="project" value="LOCAL" />
       <updated>1603196179632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="İKİNCİ ACIKLAMA">
+      <created>1603203351174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603203351174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="İKİNCİ ACIKLAMA" />
@@ -87,10 +122,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="794" y="511" key="NewPhpFileDialog/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603192991905" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1603196184018">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1603203356114">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603196184018" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603203356114" />
     <state x="761" y="273" key="svn.repositoryBrowser" timestamp="1603193118518">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
