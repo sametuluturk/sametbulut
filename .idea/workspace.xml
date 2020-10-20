@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="624cf2e5-eeab-4948-a040-ecbaeb44c534" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1j8kBPMOJzqzzzddIX4WRnkGiRF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="624cf2e5-eeab-4948-a040-ecbaeb44c534" name="Default Changelist" comment="" />
+      <created>1603192969958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603192969958</updated>
+      <workItem from="1603192971015" duration="234000" />
+      <workItem from="1603193275672" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="406" key="#Notifications" timestamp="1603193089869">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="724" y="406" key="#Notifications/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193089869" />
+    <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1603193173130">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193173130" />
+    <state x="788" y="502" key="Github.CreateGistDialog" timestamp="1603193310537">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="788" y="502" key="Github.CreateGistDialog/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193310537" />
+    <state x="837" y="482" key="Github.ShareDialog" timestamp="1603193461446">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="837" y="482" key="Github.ShareDialog/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193461446" />
+    <state x="794" y="511" key="NewPhpFileDialog" timestamp="1603192991905">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="794" y="511" key="NewPhpFileDialog/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603192991905" />
+    <state x="761" y="273" key="svn.repositoryBrowser" timestamp="1603193118518">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="761" y="273" key="svn.repositoryBrowser/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193118518" />
+  </component>
+</project>
