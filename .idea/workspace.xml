@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="624cf2e5-eeab-4948-a040-ecbaeb44c534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
+    <list default="true" id="624cf2e5-eeab-4948-a040-ecbaeb44c534" name="Default Changelist" comment="İKİNCİ ACIKLAMA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,22 +41,36 @@
       <updated>1603192969958</updated>
       <workItem from="1603192971015" duration="234000" />
       <workItem from="1603193275672" duration="346000" />
-      <workItem from="1603193635065" duration="1219000" />
+      <workItem from="1603193635065" duration="1929000" />
+      <workItem from="1603197554818" duration="12000" />
+      <workItem from="1603197567836" duration="874000" />
     </task>
+    <task id="LOCAL-00001" summary="İKİNCİ ACIKLAMA">
+      <created>1603196179632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603196179632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="İKİNCİ ACIKLAMA" />
+    <option name="LAST_COMMIT_MESSAGE" value="İKİNCİ ACIKLAMA" />
   </component>
   <component name="WindowStateProjectService">
     <state x="724" y="406" key="#Notifications" timestamp="1603193089869">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="724" y="406" key="#Notifications/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193089869" />
-    <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1603193173130">
+    <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1603197564291">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603193173130" />
+    <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603197564291" />
     <state x="788" y="502" key="Github.CreateGistDialog" timestamp="1603193310537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -73,6 +87,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="794" y="511" key="NewPhpFileDialog/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603192991905" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1603196184018">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1440.860@0.0.1920.1160" timestamp="1603196184018" />
     <state x="761" y="273" key="svn.repositoryBrowser" timestamp="1603193118518">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
